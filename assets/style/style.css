@@ -343,10 +343,10 @@
     font-size: 15px;
     font-weight: 400;
     line-height: 35px;
-    position: relative;
+    /* position: relative; */
 }
 
-.link_stayl::before {
+/* .link_stayl::before {
     content: "";
     position: absolute;
     bottom: 10%;
@@ -355,7 +355,7 @@
     height: 4%;
     background-color: rgba(0, 0, 0, 1);
 
-}
+} */
 
 .input_stayl_2 {
     font-family: "ADLaM Display", system-ui;
