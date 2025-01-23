@@ -1059,6 +1059,7 @@ textarea {
   font-size: 16px;
 }
 
+
 @media (max-width: 1232px) {
   body {
     padding: 60px;
@@ -1502,6 +1503,43 @@ textarea {
 
 
 
+
+.mo1 {
+  font-family: "ADLaM Display", system-ui;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 41.75px;
+  color: rgba(249, 110, 42, 1);
+  position: relative;
+}
+
+
+.mo2 {
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  padding-top: 30px;
+  background-color: rgba(120, 179, 206, 0.12);
+}
+
+.mo3 {
+  color: rgba(249, 110, 42, 1);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26.09Px;
+  font-family: "ADLaM Display", system-ui;
+
+}
+
+.mo4 {
+  font-family: "ADLaM Display", system-ui;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20.88px;
+  color: rgba(0, 0, 0, 0.68);
+  width: 75%;
+  margin: auto;
+}
 
 
 
