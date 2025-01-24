@@ -1060,11 +1060,6 @@ textarea {
 }
 
 
-@media (max-width: 1232px) {
-  body {
-    padding: 60px;
-  }
-}
 
 @media (max-width: 1199px) {
   .masonry {
@@ -1095,9 +1090,7 @@ textarea {
 }
 
 @media (max-width: 520px) {
-  body {
-    padding: 50px;
-  }
+
 
   .tm-block-pad {
     padding: 45px;
@@ -1128,9 +1121,7 @@ textarea {
 }
 
 @media (max-width: 390px) {
-  body {
-    padding: 40px 20px 10px;
-  }
+
 
   .tm-form-section-tag-inner {
     left: 25px;
@@ -1138,6 +1129,15 @@ textarea {
     bottom: -25px;
   }
 }
+
+@media (max-width: 992px) {
+  .center-ul li a::after {
+    display: none;
+  }
+}
+
+
+
 
 .section {
   margin-top: 120px;
